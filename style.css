@@ -1,0 +1,16 @@
+#timer
+{
+    font-size: x-large;
+    text-align: right;
+    font-weight: bold;
+}
+#score
+{
+    font-size: x-large;
+    text-align: left;
+    font-weight: bold;
+}
+body
+{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
